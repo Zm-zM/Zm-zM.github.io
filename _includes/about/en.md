@@ -1,4 +1,4 @@
-> Your time is limited, so don’t waste it living someone else’s life. 
+> There is only one heroism in the world: to see the world as it is and to love it.
 
 Welcome to my personal technology blog.<br/>
 Every step of my programming learning is recorded here.<br/>
